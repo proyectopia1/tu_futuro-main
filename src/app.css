@@ -1,0 +1,43 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+p {
+    font-size: 25px;
+    /*font-size: 40px;: Establece el tamaño de fuente de los elementos p a 40 píxeles.*/
+
+    
+    /*text-align: center;: Centra el texto dentro de los elementos p.*/
+font-family: Comfortaa, cursive;
+color: aliceblue;
+    margin-left: 80px;
+    margin-right: 80px;
+
+}
+
+ul{
+    font-size: 25px;
+    /*font-size: 40px;: Establece el tamaño de fuente de los elementos p a 40 píxeles.*/
+
+    text-align: center;
+    /*text-align: center;: Centra el texto dentro de los elementos p.*/
+    font-family: Comfortaa, cursive;
+    color: aliceblue;
+    margin-left: 100px;
+    margin-right: 100px;
+    list-style-type: none; /* Elimina los puntos de la lista */
+}
+li{
+    margin: 20px;
+}
+
+h1 {
+    font-size: 60px;
+    /*font-size: 50px;: Establece el tamaño de fuente de los elementos h1 a 50 píxeles.*/
+
+    
+    /*text-align: center;: Centra el texto dentro de los elementos h1*/
+    font-family: Comfortaa, cursive;
+    font-weight: bold;
+    
+}
